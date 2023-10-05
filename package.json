@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "firebase": "^10.3.0"
+    "@react-oauth/google": "^0.11.1"
   }
 }
